@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import "./AIChatComponent.css";
 
 // TODO: Insert your Gemini API key below
-const GEMINI_API_KEY = "AIzaSyBfucKp8fKtvC57FZxi3BOhVrVPFehjc8Y";
+const GEMINI_API_KEY = "";
 
 const predefinedResponses = {
   "who is your devloper":
